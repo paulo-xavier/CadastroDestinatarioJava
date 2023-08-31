@@ -12,7 +12,6 @@ This is a mini-project developed using the programming language Java. This proje
   - [The language](#the-language) 
 - [My process](#my-process)
   - [About](#about)
-  - (Additional Information)(#Additional)
 - [Author](#author)
 
 ## Overview
@@ -34,8 +33,6 @@ Este projeto consiste em um sistema de cadastro de emails de destinatários. Nel
 
 **en**
 This project consists in a register system of recipient emails. In this system is possible to register an user with 3 essential information (email, name and phone number), whose email is obligatory. After the register, these data is sent to a CSV archive, generated automatically with code-line using the resources of package Java.io. If the archive doesn't exist, it will be created automatically. Else, the archive will be just updated. 
-
-### Additional
 
 **pt-br**
 O arquivo CSV é só um exemplo, pode ser removido. Quando o programa rodar, usando o método 'Registrar', um novo arquivo CSV é gerado. 
